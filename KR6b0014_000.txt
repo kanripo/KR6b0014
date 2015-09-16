@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金色王經
+#+DATE: 2015-08-30 19:33:50.975864
+#+PROPERTY: JUAN 0
